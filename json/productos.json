@@ -1,0 +1,87 @@
+[
+    {
+    "nombre":"Aspiradora Daewoo DAVC90-15L 15L gris y naranja 220V-240V.png",
+    "precio":2999,
+    "imagen": "Aspiradora_Daewoo_DAVC90-15L_15L_gris_y_naranja_220V-240V.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Balanza de cocina digital Electronic SF-400 pesa hasta 10kg blanca",
+    "precio":4000,
+    "imagen": "Balanza_de_cocina_digital_Electronic_SF400_pesa_hasta_10kg_blanca.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Batidora de mano Black+Decker MX1002 blanca 220 V",
+    "precio":1500,
+    "imagen": "Batidora_de_mano_Black+Decker_MX1002_blanca_220_V.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Cafetera Atma Desayuno CA8143 semi automática negra de filtro 220V",
+    "precio":3500,
+    "imagen": "Cafetera_Atma_Desayuno_CA8143_semi_automática_negra_de_filtro_220V.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Freidora industrial eléctrica Turboblender TB-FR6V1 6L acero inoxidable 220V",
+    "precio":16899,
+    "imagen": "Freidora_industrial_eléctrica_Turboblender_TB_FR6V1_6L_acero_inoxidable_220V.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Jarra Pava Electrica Spica Sp-950 Vidrio Luz Corte Mate Base 360º 220v",
+    "precio":3699,
+    "imagen": "Jarra_Pava_Electrica_Spica_Sp_950_Vidrio_Luz_Corte_Mate_Base_360º_220v.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Mini Licuadora Portatil Autolimpiante Usb 380ml 4 Hojas",
+    "precio":4200,
+    "imagen": "Mini_Licuadora_Portatil_Autolimpiante_Usb_380ml_4_Hojas.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Mixer Spica Cocina Sp-600 220v 50-60hz 200w",
+    "precio":7000,
+    "imagen": "Mixer_Spica_Cocina_Sp_600_220v_50-60hz_200w.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Jarra Pava Electrica Spica Sp-950 Vidrio Luz Corte Mate Base 360º 220v",
+    "precio":5400,
+    "imagen": "Jarra_Pava_Electrica_Spica_Sp_950_Vidrio_Luz_Corte_Mate_Base_360º_220v.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Multiprocesadora Ultracomb PC-6800 600W negra",
+    "precio":8000,
+    "imagen": "Multiprocesadora_Ultracomb_PC_6800_600W_negra.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Pava eléctrica Liliana AP975 Tempomate negra 220V - 240V 1.7L",
+    "precio":1500,
+    "imagen": "Pava_eléctrica_Liliana_AP975_Tempomate_negra_220V_240V_1.7L.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Tostadora Moulinex Vita 7 Niveles De Tostado Blanco",
+    "precio":4352,
+    "imagen": "tostadora.jpg",
+    "cantidad":1
+    },
+    {
+    "nombre":"Vaporizador Smart-Tek GS1212 220V",
+    "precio":2000,
+    "imagen": "Vaporizador_Smart_Tek_GS1212_220V.png",
+    "cantidad":1
+    },
+    {
+    "nombre":"Waflera Electrica Maquina Waffle Spica Sp-1420 Antiadherente",
+    "precio":4500,
+    "imagen": "Waflera_Electrica_Maquina_Waffle_Spica_Sp_1420_Antiadherente.png",
+    "cantidad":1
+    }
+    
+]

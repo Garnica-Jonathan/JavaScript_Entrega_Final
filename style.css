@@ -1,0 +1,46 @@
+.tabla{
+    margin: 0 auto;
+    width: 1163px;
+    margin-top: 29px;
+}
+.catalogo_Imagen{
+    width: 83px;
+    height: 91px;
+    margin-left: 41px;
+    margin-top: 11px;
+}
+.card{
+    width: 11rem !important;
+    margin-bottom: 10px;
+}
+.card-body{
+    width: 179px;
+}
+.card-title{
+    font-size: 14px;
+    width: 140px;
+    height: 57px;
+}
+.compra_imagen{
+    width: 50px;
+    height: 50px;
+}
+.table{
+    margin: 0 auto;
+    width: 1163px;
+}
+.elementos{
+height: 10px;
+}
+.precio{
+    margin: 0 auto;
+    width: 1163px;
+}
+.footer{
+    height: 56px;
+    background-color: black;
+}
+#vaciar, #finalizar{
+    border: 9px;
+border-radius: 10px;
+}
